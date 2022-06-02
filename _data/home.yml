@@ -1,14 +1,27 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: about me
+    url: about me
 
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  # - title: gitlab
+  #   url: https://gitlab.com/dlxowns97
+
+  # - title: github
+  #   url: https://github.com/tjleejava
 
 project_entries:
+  - title: HuRIT
+    url: HuRIT
+    desc: 인적자원관리 프로그램 HuRIT
+    highlight: semi
+
+  - title: JaegoJaego
+    url: JaegoJaego
+    desc: 프랜차이즈 카페 공급망관리 프로그램
+    highlight: final
+
   - title: Project 1
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
@@ -35,36 +48,36 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+# old_project_entries:
+#   - title: Soopr
+#     url: https://www.soopr.co
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Cookie
+#     url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#   - title: Moonwalk
+#     url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#   - title: Humangous
+#     url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  # - title: abhinav's homepage
+  #   url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: gitlab
+    url: https://gitlab.com/tjleejava
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/dlxowns97
 
-  - title: feed
-    url: feed.xml
+  # - title: feed
+  #   url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
